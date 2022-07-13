@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning: ReactJS | NextJS 
-- 🤔 I’m looking for help with my first job!
 - 😄 Pronouns: He/Him
 
 ##
