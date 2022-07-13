@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋 I'm Léo, Front-end developer. 👨‍💻
+
 
 - 🌱 I’m currently learning: ReactJS | NextJS 
 - 😄 Pronouns: He/Him
