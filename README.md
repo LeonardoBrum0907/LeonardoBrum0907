@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Léo, Front-end developer. 👨‍💻
 
 
-- 🌱 I’m currently learning: ReactJS | NextJS 
+- 🌱 I’m currently learning: Node.js | SOLID 
 - 😄 Pronouns: He/Him
 
 ##
