@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Léo, Front-end developer. 👨‍💻
 
 
-- 🌱 I’m currently learning: Node.js | SOLID 
+- 🌱 I’m currently learning: DSA and Architecture
 
 ##
 
